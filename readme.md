@@ -1,9 +1,5 @@
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-<style>
-    * {
-        font-family: 'Poppins';
-    }
-</style>
+
 <h1>Welcome Dear!</h1>
 <br>
 <p><b><strong> The Δnurãʛ </strong></b> is My Offical Website for just giving a little intro about Myself. My name is <strong> Anurag Dwivedi</strong> and I can do Web Development, Data Analysis, Network Marketing and many other things only for You. If you are thinking that my website is ugly or unttractive then You're wrong about it, I can create website using Flask and Django and more High-Level Framework. By contacting me, You can get a chance to get a free Python Course.</p>
