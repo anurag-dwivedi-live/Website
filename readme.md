@@ -4,7 +4,7 @@
         font-family: 'Poppins';
     }
 </style>
-<h1 style="text-align: center;">Welcome Dear!</h1>
+<h1>Welcome Dear!</h1>
 <br>
 <p><b><strong> The Δnurãʛ </strong></b> is My Offical Website for just giving a little intro about Myself. My name is <strong> Anurag Dwivedi</strong> and I can do Web Development, Data Analysis, Network Marketing and many other things only for You. If you are thinking that my website is ugly or unttractive then You're wrong about it, I can create website using Flask and Django and more High-Level Framework. By contacting me, You can get a chance to get a free Python Course.</p>
 <br>
